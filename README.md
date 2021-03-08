@@ -14,9 +14,9 @@ My Python version is 3.7.4
 
 
 ## Running the project
-Run the following commandst to create the necessary migrations and tables:-
-python manage.py makemigrations
-python manage.py migrate
+Run the following commands to create the necessary migrations and tables:-
+* python manage.py makemigrations
+* python manage.py migrate
 
 And finally run the following command to start the django server:-
 python manage.py runserver
